@@ -79,6 +79,7 @@
 		<div id="page">
 			<div class="header-container">
 				<header id="header">
+					<p>hola que tal estas</p>
 					{capture name='displayBanner'}{hook h='displayBanner'}{/capture}
 					{if $smarty.capture.displayBanner}
 						<div class="banner">
