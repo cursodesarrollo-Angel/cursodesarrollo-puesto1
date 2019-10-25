@@ -6,7 +6,7 @@
   float: right;
   padding-top: 50px; }
   #header .shopping_cart > a:first-child:after {
-    content: "\f0d7";
+    content: "";
     font-family: "FontAwesome";
     display: inline-block;
     float: right;
@@ -43,8 +43,8 @@
       font: 600 18px/22px "Open Sans", sans-serif;
       padding-right: 5px; }
     .shopping_cart > a:first-child:before {
-      content: "\f07a";
-      font-family: "FontAwesome";
+      content: "\f370";
+      font-family: "ion-icon";
       display: inline-block;
       font-size: 23px;
       line-height: 23px;

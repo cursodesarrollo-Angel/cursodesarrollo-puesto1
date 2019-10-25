@@ -1,5 +1,5 @@
 body {
-  background: #333333;
+  background: rgb(0, 0, 0);
 }
 
 .header-container, .columns-container {
@@ -7,10 +7,10 @@ body {
 }
 
 #header {
-  background: white;
+  background: black;
 }
 #header #nav-row {
-  background: #333333;
+  background: #000000;
 }
 #header #nav-row .shop-phone {
   color: #777;
@@ -19,7 +19,7 @@ body {
   color: #719f41;
 }
 #header #currencies-block-top, #header #languages-block-top, #header #nav-row .header_user_info {
-  border-color: #515151;
+  border-color: #000000;
 }
 #header #currencies-block-top ul li.selected, #header #currencies-block-top ul li.selected a, #header #currencies-block-top ul li a:hover, #header #languages-block-top ul li.selected, #header #languages-block-top ul li.selected a, #header #languages-block-top ul li a:hover, #header #nav-row .header_user_info ul li.selected, #header #nav-row .header_user_info ul li.selected a, #header #nav-row .header_user_info ul li a:hover {
   background: #719f41;
@@ -56,11 +56,11 @@ body {
 }
 #header #search_block_top .btn.button-search:hover {
   color: white;
-  background: #333333;
-  text-shadow: 0 1px  #333;
+  background: #000000;
+  text-shadow: 0 1px  rgb(0, 0, 0);
 }
 #header #search_block_top #search_query_top {
-  color: #686666;
+  color: #ffffff;
 }
 #header #header_user #shopping_cart a {
   background: #719f41;
